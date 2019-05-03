@@ -12,9 +12,6 @@ Images from Pixabay.com
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-# For assigning recipients
-from email.headerregistry import Address
-
 # For  images and arbitrary attachments
 from email.mime.image import MIMEImage
 from email.mime.application import MIMEApplication
